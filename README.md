@@ -37,7 +37,7 @@ The project covers data cleaning and transformation using Python, database integ
   - Attrition by Department
   - Attrition by Salary Slab
   - Attrition by Overtime
-  - Attrition by Experience Level
+  - Attrition by Experience Group
 - Generated SQL-based insights and business recommendations
 
  ### 3. Dashboard Development (Power BI)
