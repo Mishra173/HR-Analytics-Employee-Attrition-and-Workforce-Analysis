@@ -46,7 +46,7 @@ The project covers data cleaning and transformation using Python, database integ
   - Total Employees
   - Total Attrition
   - Attrition Rate %
-- Designed interactive HR dashboard
+- Designed interactive HR Analytics dashboard
 - Added slicers for dynamic analysis
 - Generated business insights
 
