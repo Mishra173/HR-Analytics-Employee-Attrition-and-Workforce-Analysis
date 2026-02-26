@@ -59,7 +59,9 @@ The project covers data cleaning and transformation using Python, database integ
 - Attrition decreases as job satisfaction increases.
 - Employees with lower experience are more likely to leave.
 
- Dashboard Preview
+ Dashboard Preview :
+
+ 
  link (<img width="792" height="498" alt="image" src="https://github.com/user-attachments/assets/9485cd4c-b16c-411c-a8a8-a77832b670f0" />
 
 
