@@ -5,8 +5,7 @@
 
 This project is an end-to-end HR Analytics solution focused on analyzing employee attrition and workforce trends.
 
-The project covers data cleaning and transformation using Python, database integration using MySQL, and interactive dashboard creation using Power BI.
-
+The project includes data cleaning, exploratory data analysis, SQL-based analysis, and interactive dashboard reporting to generate actionable HR insights
 
 
 ## Tools & Technologies Used
