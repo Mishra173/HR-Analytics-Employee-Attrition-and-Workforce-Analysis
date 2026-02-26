@@ -62,7 +62,7 @@ The project covers data cleaning and transformation using Python, database integ
  Dashboard Preview :
 
  
- link (<img width="792" height="498" alt="image" src="https://github.com/user-attachments/assets/9485cd4c-b16c-411c-a8a8-a77832b670f0" />
+  (<img width="792" height="498" alt="image" src="https://github.com/user-attachments/assets/9485cd4c-b16c-411c-a8a8-a77832b670f0" />
 
 
 
