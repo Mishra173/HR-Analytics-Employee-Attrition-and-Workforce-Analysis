@@ -29,7 +29,7 @@ The project includes data cleaning, exploratory data analysis, SQL-based analysi
 - Identified initial attrition patterns
 - Prepared structured dataset for database storage
 
-### 2. Database Integration (MySQL)
+### 2.SQL Analysis (MySQL)
 - Created MySQL database (hranalytic)
 - Imported cleaned dataset using SQLAlchemy
 - Performed aggregation queries:
