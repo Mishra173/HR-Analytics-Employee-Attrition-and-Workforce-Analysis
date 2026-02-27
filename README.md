@@ -23,7 +23,7 @@ The project includes data cleaning, exploratory data analysis, SQL-based analysi
 
 ###  1. Data Cleaning & Processing (Python)
 - Loaded dataset using Pandas
-- Handled missing values
+- Checked for missing values and validated data quality
 - Created derived columns (Age Group, Experience Group)
 - Performed Exploratory Data Analysis using Matplotlib & Seaborn
 - Identified initial attrition patterns
@@ -32,11 +32,14 @@ The project includes data cleaning, exploratory data analysis, SQL-based analysi
 ### 2.SQL Analysis (MySQL)
 - Created MySQL database (hranalytic)
 - Imported cleaned dataset using SQLAlchemy
-- Performed aggregation queries:
-  - Attrition by Department
-  - Attrition by Salary Slab
-  - Attrition by Overtime
-  - Attrition by Experience Group
+- Performed SQL-based aggregation analysis including:
+- Workforce summary metrics
+- Department-wise attrition
+- Salary slab impact
+- Overtime impact
+- Job satisfaction analysis
+- Experience group analysis
+- Age & gender attrition comparison
 - Generated SQL-based insights and business recommendations
 
  ### 3. Dashboard Development (Power BI)
