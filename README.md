@@ -61,6 +61,15 @@ The project includes data cleaning, exploratory data analysis, SQL-based analysi
 - Attrition decreases as job satisfaction increases.
 - Employees with lower experience are more likely to leave.
 
+
+ ## Business Recommendations
+
+- Reduce excessive overtime through workload redistribution.
+- Review compensation structure for lower salary slabs.
+- Improve employee engagement and job satisfaction initiatives.
+- Develop retention programs for early-career employees.
+- Strengthen work-life balance policies.
+
  Dashboard Preview :
 
  
